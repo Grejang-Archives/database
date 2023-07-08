@@ -1,0 +1,22 @@
+{
+  "type": "Miner",
+  "requirements": [
+    {
+      "haste": 5,
+      "strength": 2,
+      "power": 0,
+    }
+  ],
+
+ "description": [
+    {
+      "l1": "Oi, I'm exhausted here but ",
+      "l2": "I haven't met my quota yet. ",
+      "l3": "Get 7 Iron, I think that's enough ",
+      "l4": "for my paycheck."
+    }
+  ],
+  "prize": 60
+}
+
+
