@@ -1,0 +1,23 @@
+{
+  "type": "Knight",
+  "requirements": [
+    {
+      "haste": 0,
+      "strength": 5,
+      "power": 0,
+    }
+  ],
+
+ "description": [
+    {
+      "l1": "Hey, there's been a few monsters that keep bugging us",
+      "l2": "but they're a bit too strong for me, mind killing a few?",
+      "l3": "for a reward?",
+      "l4": ""
+    }
+  ],
+  "task": "Kill 12 Zombies",
+  "prize": 65
+}
+
+

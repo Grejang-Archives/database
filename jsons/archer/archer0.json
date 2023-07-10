@@ -1,0 +1,23 @@
+{
+  "type": "Archer",
+  "requirements": [
+    {
+      "haste": 0,
+      "strength": 5,
+      "power": 5,
+    }
+  ],
+
+ "description": [
+    {
+      "l1": "Hey, you there! I cant move without being shot at... Do",
+      "l2": "me a favor and shoot some arrows into their empty skulls!",
+      "l3": "",
+      "l4": "Don't take that literally, by the way."
+    }
+  ],
+  "task": "Shoot 24 Skeletons with a bow",
+  "prize": 75
+}
+
+
