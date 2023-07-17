@@ -3,21 +3,19 @@
   "requirements": [
     {
       "haste": 5,
-      "strength": 2,
+      "strength": 5,
       "power": 0,
     }
   ],
 
  "description": [
     {
-      "l1": "Oi, I'm exhausted here but ",
-      "l2": "I haven't met my quota yet. ",
-      "l3": "Get 7 Iron, I think that's enough ",
-      "l4": "for my paycheck."
+      "l1": "Whew. I'm tired. I still don't",
+      "l2": "have exactly enough ore for my",
+      "l3": "railroad. I'm exhaused, could you",
+      "l4": "get the last few ores?"
     }
   ],
-  "task": "Get 7 iron ingots",
-  "prize": 60
+  "task": "Mine 5 Gold & 15 Steel",
+  "prize": 70
 }
-
-

@@ -1,0 +1,21 @@
+{
+  "type": "Knight",
+  "requirements": [
+    {
+      "haste": 0,
+      "strength": 5,
+      "power": 5,
+    }
+  ],
+
+ "description": [
+    {
+      "l1": "I bet you 70 that you cant kill those",
+      "l2": "zombies over there...",
+      "l3": "",
+      "l4": ""
+    }
+  ],
+  "task": "Kill 5 Zombiea",
+  "prize": 70
+}

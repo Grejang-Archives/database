@@ -1,0 +1,21 @@
+{
+  "type": "Archer",
+  "requirements": [
+    {
+      "haste": 0,
+      "strength": 0,
+      "power": 10,
+    }
+  ],
+
+ "description": [
+    {
+      "l1": "Oi, Could you do a favor and kill",
+      "l2": "some skeletons around here? I've killed",
+      "l3": "most of the zombies already. but all the",
+      "l4": "skeletons keep firing arrows at me."
+    }
+  ],
+  "task": "Kill 6 Skeletons",
+  "prize": 55
+}
