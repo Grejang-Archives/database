@@ -1,0 +1,7 @@
+potential:0.08450704
+lesserPotential:0.34507042
+lockJLVL:false
+mobHealth:0.6690141
+repair:0.23943663
+fallDamage:true
+detectionRange:0.19

@@ -1,0 +1,5 @@
+potential:0.8239437
+lesserPotential:0.7253521
+lockJLVL:true
+mobHealth:0.5140845
+repair:0.471831
